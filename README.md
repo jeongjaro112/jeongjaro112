@@ -355,7 +355,7 @@ Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
 ## Special Thanks 🙇
-- [멀티캠퍼스](https://lc.multicampus.com) for making the amazing site for this repo!
+-[멀티캠퍼스(https://lc.multicampus.com)](https://lc.multicampus.com) for making the amazing site for this repo!
 
 ## License
 
