@@ -1,16 +1,29 @@
 ### Hi there 👋
+### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+###### Hi there 👋
 
-<!--
-**jeongjaro112/jeongjaro112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**두껍게**
+*이탤릭*
+~~스타라이크~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**두껍게**<br>
+*이탤릭*<br>
+~~스타라이크~~<br>
+
+* 1번
+* 2번
+
+- 1번
+- 2번
+
+## 링크를 넣어서 만드는 방법
+[네이버](https://naver.com)
+
+```
+코드형식으로 묶을 내용
+```
+
